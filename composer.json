@@ -1,0 +1,23 @@
+{
+    "name": "alvaro/perfriend_php",
+    "description": "Sistema de agendamentos de pet shop feito em PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "alvaro220592",
+            "email": "alvaro220592@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "files": [
+        "public/template.php"
+    ]
+
+}
