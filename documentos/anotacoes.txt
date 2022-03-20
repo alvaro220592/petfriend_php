@@ -7,3 +7,5 @@ salmão, verde água, amarelo claro
 
 amarelo - chama atenção e transmite acolhimento
 cores frias - dão sensação de limpeza
+
+Encontrar diretório raiz: dirname($_SERVER['SCRIPT_FILENAME'])

@@ -2,7 +2,6 @@
 
 use App\controllers\ClientController;
 use App\controllers\TesteController;
-use App\models\Conexao;
 
 include_once __DIR__ . "/vendor/autoload.php";
 
