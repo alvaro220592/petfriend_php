@@ -17,9 +17,5 @@
             "App\\": "app/",
             "Core\\": "core/"
         }
-    },
-    "files": [
-        "public/template.php"
-    ]
-
+    }
 }
